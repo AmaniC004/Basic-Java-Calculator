@@ -154,7 +154,9 @@ public class JCalculator {
      * @param args The command line arguments.
      */
     public static void main(String[] args) {
-        JCalculator jc = new JCalculator();
+        while(true){
+            JCalculator jc = new JCalculator();
+        }
     }
 
 }
