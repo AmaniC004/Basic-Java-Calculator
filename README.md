@@ -27,7 +27,7 @@ JCalculator is a simple Java program that acts as a calculator, performing basic
 
 ## Possible Additions
 1. Might add more operations e.g log, square roots etc.
-2. Might a GUI with buttons and frames,
+2. Might a GUI with buttons and frames (Done this but more work is necessary)
 
 ## Author
 
